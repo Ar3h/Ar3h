@@ -1,9 +1,13 @@
-## About Me 👋
+## 关于我 👋
 
 - SDL安全
 - 业余 Java 安全研究
 - 维护 [Java-Chains](https://github.com/Java-Chains) 项目
 - Email: [Ar3hang1@gmail.com](ar3hang1@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ar3h&show_icons=true&include_all_commits=true&count_private=true" />
+## About Me 👋
 
+- SDL Security
+- Amateur Java security research
+- Maintain the [Java-Chains](https://github.com/Java-Chains) project
+- Email: [Ar3hang1@gmail.com](ar3hang1@gmail.com)
